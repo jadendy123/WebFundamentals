@@ -1,0 +1,15 @@
+cd Desktop
+mkdir test
+touch index.html style.css aboutMe.txt
+git init
+git add .
+git commit -m "My first git init"
+open .
+git add aboutMe.txt 
+git commit -m "updated aboutME"
+open .
+git add aboutMe.txt 
+git commit -m "added my favorite movie to aboutMe"
+git revert -n HEAD
+open .
+git commit -m "last commit"

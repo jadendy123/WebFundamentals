@@ -1,0 +1,29 @@
+First I went to my GitHub account and made a new respository called DojoAssignments
+
+These are the commands I used in the terminal:
+
+cd Desktop
+
+cd DojoAssignments
+
+git init
+
+git add .
+
+git commit -m "Pushing DojoAssignments to Github"
+
+git remote add origin git@github.com:jadendy123/DojoAssignments.git
+
+git push -u origin master
+
+touch readme.md 
+
+open . "Typed description of DojoAssignments"
+
+git staus
+
+git add .
+
+git commit -m "made readme.md file"
+
+git push -u origin master
