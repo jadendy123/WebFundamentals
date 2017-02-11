@@ -1,0 +1,284 @@
+
+*{
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+#container{
+	width: 960px;
+}
+
+#header{
+	width: 100%
+	height: 125px;
+	background-color: blue;
+}
+
+#Logo{
+	background-image: url(images/logo.png);
+	background-size: contain;
+	width: 350px;
+	height: 100px;
+	margin-top: 15px;
+	margin-left: 15px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#headerRight{
+	display: inline-block;
+	vertical-align: top;
+	width: 275px;
+	height: 125px;
+	margin-top: 10px;
+	margin-left: 275px;
+}
+
+#Htext{
+	width: 100%;
+	height: 19px;
+	font-size: 15px;
+}
+
+#Htext ul{
+	margin-left: 20px;
+}
+
+#Htext{
+	display: inline-block;
+	vertical-align: top;
+}
+
+#Htext ul li{
+	display: inline;
+	vertical-align: top;
+}
+
+#Searchead{
+	width: 100%;
+	height: 60px;
+	background-color: #696969;
+	border-radius: 10px;
+}
+
+#searchform{
+	display: inline-block;
+	vertical-align: top;
+}
+
+#searchBar{
+	width: 150px;
+	height: 25px;
+	margin-top: 15px;
+	margin-left: 10px;
+}
+
+#searchBtn{
+	width: 40px;
+	height: 25px;
+	margin-left: 5px;
+	margin-top: 18px;
+	background-color: blue;
+	color: white;
+	border-radius: 3px;
+
+}
+
+.white{
+	color: white;
+	
+
+
+}
+
+.gold{
+	color: gold;
+
+}
+
+
+/*end of header*/
+
+
+#NavBar{
+	background-color: blue;
+	width: 100%;
+	height: 50px
+}
+
+#NavBarlist{
+	background-color:#00BFFF;
+	height: 90%
+	padding-left:30px;
+	padding-right: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+	display: inline-block;
+	border-radius: 5px;
+}
+
+#NavBarlist li{
+	display: inline-block;
+	vertical-align: top;
+	margin-top:10px;
+	margin-left:20px;
+	margin-right: 20px; 
+	font-size: 1.3em;
+	font-weight: 300
+
+}
+
+#NavBarlist a{
+	text-decoration: none;
+	color: white;
+}
+
+#main{
+	background-color: blue;
+	width: 100%;
+	height: 300px;
+}
+
+#SideNav{
+	height: 270px;
+	width: 200px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 25px;
+	margin-top: 15px;
+}
+
+#SideNav{
+	list-style: square;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+#SideNav li{
+	color: yellow;
+}
+
+
+
+#SideNav li a{
+	color: white;
+	font-weight: 100;
+}
+
+#mainContent{
+	height: 270px;
+	width: 600px;
+	display: inline-block;
+	vertical-align: top;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	text-align: center;
+}
+
+#p1{
+	color: white;
+
+}
+
+#p2{
+	color: white;
+	font-weight: 300;
+	margin-top: 10px;
+}
+
+.Htag{
+	color: gold;
+	font-style: italic;
+	margin-top: 10px;
+}
+
+
+#footer{
+	width: 100%;
+	margin-top: 10px;
+}
+
+#footer1{
+	display: inline-block;
+	vertical-align: top;
+	border-top: 5px solid blue;
+	height: 200px;
+	width: 275px;
+	margin-right: 150px;
+
+}
+
+#footer2{
+	display: inline-block;
+	vertical-align: top;
+	border-top: 5px solid blue;
+	height: 200px;
+	width: 275px;
+
+}
+
+#footer1 ul{
+	
+	list-style: square;
+
+} 
+
+#footer1 ul li a{
+	color: blue;
+	text-decoration: none;
+
+}
+
+#footer2 ul{
+	list-style: square;
+}
+
+#footer2 ul li a{
+	color: blue;
+	text-decoration: none;
+
+}
+
+#f2p{
+	text-decoration: none;
+	color: blue;
+}
+
+#footnotes{
+	background-color: blue;
+	height: 75px;
+	width: 100%;
+}
+
+#footnotes ul li{
+	display: inline-block;
+	margin-top: 35px;
+	padding-right: 10px;
+	padding-left: 10px;
+
+
+}
+
+#footnotes ul li a{
+	text-decoration: none;
+	color: #00BFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
