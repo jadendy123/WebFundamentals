@@ -1,0 +1,252 @@
+#wrapper{
+	
+	width: 970px;
+	height: 100%
+	margin: 0 auto;
+	padding: 0 auto;	
+	background-color: #F8F8FF;
+}
+
+#header{
+	background-color: white;
+	width: 970px;
+	height: 70px;
+	padding: 10px;
+}
+
+#Logo{
+	width: 100px;
+	height: 100px;
+	background-image: url(images/globe.png);
+	background-size: contain;
+	display: inline-block;
+	vertical-align: top;
+}
+
+h1{
+	display: inline-block;
+	font-size: 48px;
+	margin-left: 10px;
+	margin-bottom: 20px;
+}
+
+#Subhead{
+	background-color: #6495ED;
+	width: 970px;
+	height: 65px;
+	margin: 0 auto;
+
+}
+
+#Subhead p{
+	
+	color: white;
+	font-size: 32px;
+	margin-left: 15px;
+	margin-top: 5px;
+	vertical-align: middle;
+	padding: 13px;
+
+}
+
+#RightCol{
+	display: inline-block;
+	vertical-align: top;
+	width: 200px;
+	height: 100%;
+	margin-left: 20px;
+
+}
+
+#But1{
+	width: 200px;
+	height: 40px;
+	background-color: #6495ED;
+	color: white;
+	border-radius: 5px;
+	margin-bottom: 3px;
+
+}
+
+#But2{
+	width: 200px;
+	height: 40px;
+	background-color: orange;
+	color: white;
+	border-radius: 5px;
+
+}
+
+#Ninjalogo{
+	width: 100%;
+	height: 300px;
+	background-image: url(images/ad_background.png);
+	background-size: contain;
+}
+
+#Ninjalogo p{
+	color: white;
+	font-weight: bold;
+	font-size: 24px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+#Ninja{
+	width: 70px;
+	height: 100px;
+	background-image: url(images/ninja.png);
+	background-size: contain;
+	margin-left: 60px;
+}
+
+#Ninjabut{
+	width: 160px;
+	height: 35px;
+	background-color: #00FFFF;
+	margin-left: 20px;
+	border-radius: 5px;
+	margin-top: 20px;
+	color: white;
+}
+
+
+
+
+/*End of RightCol*/
+
+
+#MainContent{
+	display: inline-block;
+	vertical-align: top;
+	width: 700px;
+	height: 100%;
+	margin-left: 10px;
+}
+
+
+#Mlogo{
+	width: 25px;
+	height: 25px;
+	background-image: url(images/home.png);
+	background-size: contain;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 10px;
+}
+
+#MainContent h4{
+	color: #6495ED;
+	display: inline-block;
+	vertical-align: top;
+} 
+
+#Mlogo2{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-image: url(images/phone.png);
+	background-size: contain;
+	margin-top: 5px;
+	margin-left: 425px
+}
+
+
+#Info{
+	display: inline-block;
+	vertical-align: top;
+	width: 150px;
+	height: 80px;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-top: 0;
+	margin-left: 0px;
+}
+
+#InfoP{
+	display: inline-block;
+	vertical-align: top;
+}
+
+
+#Info p, h2{
+	
+	margin: 0 auto;
+	padding: 0 auto;
+
+}
+
+#Info p{
+	font-size: 10px;
+}
+
+
+
+
+
+
+#MainContent h3{
+	color: #6495ED;
+}
+
+#MainContent h2{
+	color: #00FFFF;
+}
+
+#SClogo{
+	width: 275px;
+	height: 100px;
+	background-image: url(images/client_server.jpg);
+	background-size: contain;
+	margin-left: 212px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+#MainBox{
+	
+	display: inline-block;
+	vertical-align: top;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #6495ED;
+	width: 100%;
+	height: 100%
+
+}
+
+#Boxlogo{
+	display: inline-block;
+	vertical-align: top;
+	background-image: url(images/html.png);
+	background-size: contain;
+	width: 65px;
+	height: 58px;
+	margin-top: 25px;
+	margin-left: 25px;
+
+}
+
+#BoxInfo{
+	display: inline-block;
+	vertical-align: top;
+	width: 550px;
+	margin-left: 25px;
+	height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
